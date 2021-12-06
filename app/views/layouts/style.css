@@ -1,0 +1,11 @@
+p {
+  color: red;
+}
+
+.second-message {
+  background-color: pink;
+}
+
+#third-message {
+  border: solid;
+}
